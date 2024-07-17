@@ -1,0 +1,3 @@
+npm install electron --dev --save
+
+npm install nodemon (To reflect HTML and css changes on fronend ASAP save the page , )
